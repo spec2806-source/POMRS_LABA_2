@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<ProjectOptions
+  IecNamingConventions="true"
+  IecKeywordsAsStructureMembers="false"
+  IecExtendedConstants="true"
+  LogicalDirectory="C:\SKS0123_lab41\lab41\lab41\Logical\"
+  TempDirectory="C:\SKS0123_lab41\lab41\lab41\Temp\"
+  AutomationStudioVersion="4.5.2.102"
+  AutomationStudioEdition="Standard"
+  CrossReference="false"
+  ActiveConfiguration="Config1"
+  CreateAnsiCDeclarations="false" />

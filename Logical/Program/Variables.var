@@ -1,0 +1,8 @@
+VAR
+	k : INT;
+	act_speed : INT;
+	DoorState : DoorStateMachine;
+	EVIRD : DriveStateMachine;
+	mme : BOOL;
+	LedState : LedStateMachine;
+END_VAR

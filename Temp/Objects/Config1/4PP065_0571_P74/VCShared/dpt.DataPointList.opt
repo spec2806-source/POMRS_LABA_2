@@ -1,0 +1,10 @@
+<BuildOptions>
+  <BuildOption>
+    <SourceFile Value="C:/Users/admin/Desktop/KRBO_01_23/sem1/KRBO-01-23_SKS/lab41/Physical/Config1/4PP065_0571_P74/Cpu.sw" />
+    <Query Value="/ns:SwConfiguration/ns:TaskClass/*$$Name,Source" />
+    <Xml>
+      <Task Name="ncsdcctrl" Source="ncsdcctrl.prg" />
+      <Task Name="Program" Source="Program.prg" />
+    </Xml>
+  </BuildOption>
+</BuildOptions>

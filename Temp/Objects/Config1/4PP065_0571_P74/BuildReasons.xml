@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildReasons>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\visu\visu.mak">
+    <BuildReason>Rule is forced.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\sysconf.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\hardware.hw" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\program\main.c.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\program\main.c" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\ncsdcctrl\ncsdcctrlcyclic.st.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\global.var" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\ncsdcctrl\ncsdcctrlinit.st.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\global.var" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\ncsdcctrl\_bur_pvdef.st.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\ncsdcctrl\ncsdcctrlcyclic.st.o" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\ncsdcctrl\a.out">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\ncsdcctrl\ncsdcctrlcyclic.st.o" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\program\_bur_pvdef.c.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\program\main.c.o" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\ncsdcctrl\ncsdcctrl.ox">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\ncsdcctrl\a.out" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\ncsdcctrl.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\ncsdcctrl\ncsdcctrl.ox" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\program\a.out">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\program\main.c.o" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\program\program.ox">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\program\a.out" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\ashwac.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\hardware.hw" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\program.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\program\program.ox" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\library\drivestatemachine.c.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\libraries\library\drivestatemachine.c" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\library\doorstatemachine.c.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\libraries\library\doorstatemachine.c" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\library\ledstatemachine.c.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\libraries\library\ledstatemachine.c" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\library\a.out">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\library\drivestatemachine.c.o" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\library\library.ox">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\library\a.out" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\library.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\library\library.ox" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\visu.br">
+    <BuildReason>Rule is forced.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\acp10cfg.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\hardware.hw" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\acp10map.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\hardware.hw" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\tcdata\tcdata.s18d">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\tcdata\tcdata.imx" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\tcdata.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\tcdata\tcdata.s18d" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\asfw.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\hardware.hw" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\ashwd.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\hardware.hw" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\arconfig.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\4pp065_0571_p74\iomap.iom" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\iomap.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\4pp065_0571_p74\iomap.iom" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="#cpu_tp.mak">
+    <BuildReason>Rule is forced.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\binaries\config1\4pp065_0571_p74\transfer.lst">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\4pp065_0571_p74\acp10cfg.br" differs.
+</BuildReason>
+  </Rule>
+</BuildReasons>
